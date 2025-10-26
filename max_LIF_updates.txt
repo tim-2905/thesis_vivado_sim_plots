@@ -1,0 +1,5 @@
+max LIF updates per timestep (1 ms) by clock frequency of 100 MHz of Microblaze V:
+
+- amount of clock cycles in one timestep: 1* 10⁵
+- amount of LIF updates (1680 clock cycles) per timestep: 59,52 -> 59 without Initialization
+- YANA: 100 000 updates per timestep 
