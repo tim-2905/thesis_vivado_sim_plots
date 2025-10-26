@@ -1,0 +1,21 @@
+Latency of Microblaze V: clock frequency: 100 MHz
+
+- Initialization of microblaze V/ C-Code: 2301 clock cycles
+
+- One LIF update: 1523 clock cycles
+- End of LIF update to restart, so next LIF update: 157 clock cycles
+
+--> In total LIF update rule: 1680 clock cycles
+
+Initialization: 
+	- Start: 95, 000 ps
+	- End: 23, 105, 000 ps
+	
+LIF update:
+		- Start: 24,625, 000 ps
+		- End: 39, 855, 000 ps
+		
+LIF restart: 
+		- Start: 39, 855, 000 ps
+		- End: 41, 425, 000 ps
+
