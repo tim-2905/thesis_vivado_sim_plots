@@ -1,0 +1,16 @@
+amount of used hardware ressources:
+
+- Microblaze v:
+
+		- AXI GPIO (timestep done flag): 63 CLB LUTs, 158 CLB Registers
+		- AXI GPIO (current timestep): 95 CLB LUTs, 318 CLB Registers 
+		- microblaze riscv: 1452 CLB LUTs, 1022 CLB Registers, 33 CARRY8 , 32 F7 Muxes 
+		- microblaze risv local memory: 69 CLB LUTs, 24 CLB Registers, 128 Block RAM
+		
+YANA:
+
+		- CLB LUTs: 321
+		- CLB Registers: 375
+		- CARRY8: 22
+		- Block RAM: 1.5
+		- DSPs: 2
